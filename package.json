@@ -1,0 +1,16 @@
+{
+  "name": "india-today",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Anurag",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.2"
+  }
+}
