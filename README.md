@@ -1,7 +1,6 @@
 # india-group-project
-Assignment
 
-#Feeds end point
+# Feeds end point
 
 1. For searching with headlin string
 https://localhost:8080/feeds/headline?search=<search>
@@ -13,8 +12,7 @@ https://localhost:8080/feeds/10/1
 https://localhost:8080/feeds/10/1?author=<name>&category=<>&order_by=1
 https://localhost:8080/feeds?author=<name>&category=<>&order_by=-1
 
-
-#User end points
+# Users end point
 https://localhost:8080/users/<id>
 For getting user with specific id
 
